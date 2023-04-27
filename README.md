@@ -1,1 +1,0 @@
-Tailwind_Static_Web
